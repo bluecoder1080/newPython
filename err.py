@@ -10,6 +10,6 @@ def calculate_average(numbers)
 
 nums = [10, 20, 30, 40, 50]
 
-avg = calculate_average(nums)
+avg = calculate_averag
 
 print("Average is: " + avg)
